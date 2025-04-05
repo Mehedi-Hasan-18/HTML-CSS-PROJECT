@@ -1,0 +1,45 @@
+body{
+    background-color: #8379a5;
+    overflow-x: hidden;
+}
+.navbar-nav .nav-link,
+.navbar-nav .nav-link.active,
+.resume-btn .resume-text{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: bold;
+}
+/* .download-icon {
+    display: none;
+  }
+
+.resume-btn:hover .resume-text {
+display: none;
+}
+
+.resume-btn:hover .download-icon {
+display: inline;
+} */
+.description-image{
+    width: 242px;
+    height: 350px;
+}
+.banner{
+    padding: 12px;
+}
+.main-heading{
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+}
+.image-one{
+    width: 461px;
+    height: 270px;
+}
+.image-two{
+    width: 461px;
+    height: 270px;
+}
+.form-container{
+    margin-left: 100px;
+    margin-right: 100px;
+}
